@@ -13,4 +13,4 @@ add_subdirectory(lib)
 target_link_libraries(Lab_1 Lab_1_lib)
 target_link_libraries(Lab_1 gtest gtest_main)
 
-add_subdirectory(Test)
+add_subdirectory(test)
